@@ -5,8 +5,8 @@ This project utilizes a convolutional neural network (CNN) to classify images of
 # Requirements
 To run this project, you'll need the following:
 
-*Python 3.x
-TensorFlow 2.x or PyTorch 1.x (depending on the framework used)
+*Python 3.x*
+TensorFlow 2.x or PyTorch 1.x (depending on the framework used)*
 NumPy
 Pandas
 scikit-learn
